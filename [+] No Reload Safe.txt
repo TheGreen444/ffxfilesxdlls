@@ -1,0 +1,7 @@
+[+] No Reload Safe
+----------------------------------------
+Search  :
+ A0 E3 6D 00 00 EB 00 0A B7 EE 
+
+Replace : 
+FF 02 44 E3 00 0A B7 EE 10 0A 
